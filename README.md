@@ -1,4 +1,4 @@
-# NBA-MVP-Predictor - Vers 1
+# NBA-MVP-Predictor - V1
 
 How to improve mvp predictor:
 - Incorporate advanced stats
